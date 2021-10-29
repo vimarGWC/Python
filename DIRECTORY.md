@@ -244,8 +244,9 @@
   * [Kth Order Statistic](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/kth_order_statistic.py)
   * [Max Difference Pair](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/max_difference_pair.py)
   * [Max Subarray Sum](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/max_subarray_sum.py)
-  * [Mergesort](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/mergesort.py) O(NNNNN)
-  * 
+  * [Mergesort](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/mergesort.py) O(nlogn)
+
+
   * [Peak](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/peak.py)
   * [Power](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/power.py)
   * [Strassen Matrix Multiplication](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/strassen_matrix_multiplication.py)
